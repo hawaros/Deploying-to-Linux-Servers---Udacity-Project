@@ -11,6 +11,7 @@ Create a new GitHub repository and add a file named README.md.
 Your README.md file should include all of the following:
 
 **1. The IP address and SSH port so your server can be accessed by the reviewer.**
+
 **IP-adress and SSH:** (Will be deleted when course is finished!)
 STATIC-IP: 52.29.113.63
 Port: 2200
