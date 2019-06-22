@@ -114,4 +114,4 @@ engine = create_engine('postgresql://user:password@localhost/db_name')
 * In case of problem with memory when installing the requirements.txt file: [Press here](https://github.com/pypa/pipenv/issues/451)
 
 
-``` OBS!  sudo tail -f /var/log/apache2/error.log``` has been very helpful for me when debugging error in the apache server. I ow alot to this command and google.
+NOTE!!! ```sudo tail -f /var/log/apache2/error.log``` has been very helpful for me when debugging Apache Webserver errors. I owe alot to this command and Google/Stack Overflow.
